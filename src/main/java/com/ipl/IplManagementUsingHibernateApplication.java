@@ -10,6 +10,7 @@ public class IplManagementUsingHibernateApplication {
 		SpringApplication.run(IplManagementUsingHibernateApplication.class, args);
 		
 		System.out.println("SpringBoot started on port 8091");
+		System.out.println("Spring Application is Running");
 	}
 
 }
